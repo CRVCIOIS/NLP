@@ -73,7 +73,7 @@ class InputPreprocess:
                 frequency[token] += 1
 
         tokenized_corpus =[
-            [token for token in doc if frequency[token] > 1]
+            [token for token in doc ]
             for doc in corpus
         ]
 
