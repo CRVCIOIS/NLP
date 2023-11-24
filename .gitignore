@@ -177,4 +177,7 @@ pyrightconfig.json
 # Vscode
 .vscode/
 
+# Glove files
+pretrained_models/glove_files/
+
 # End of https://www.toptal.com/developers/gitignore/api/python
