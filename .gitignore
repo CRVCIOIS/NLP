@@ -177,4 +177,7 @@ pyrightconfig.json
 # Vscode
 .vscode/
 
+# Scraped data
+scraped/
+
 # End of https://www.toptal.com/developers/gitignore/api/python
